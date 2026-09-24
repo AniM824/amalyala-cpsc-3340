@@ -1,0 +1,1 @@
+chromium --kiosk --noerrdialogs --disable-infobars --incognito file:///home/stu3340/dollhouse/index.html &
