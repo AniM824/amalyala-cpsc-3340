@@ -12,3 +12,5 @@ Log:
 9/30 8:30pm -- [without using hardware] got visuals down for each mode, using keyboard strokes to simulate easier
 9/30 9:00pm -- programmed main fn to use all hardware inputs and coordinate between modes & settings
 9/30 9:30pm -- finished testing and used AI to make animations smoother
+
+video: https://youtube.com/shorts/re9kyVjxZCU
