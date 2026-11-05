@@ -20,18 +20,18 @@
 - Realized RPM was too high, set it from 60 → 10 rpm, and then everything worked yay! (max RPM is 17-18 according to internet)
 
 ## 11/4 -- description of wiring
-ESP32 Micro-USB <---> Laptop USB
-ESP32 5V <---> breadboard +
-ESP32 GND <---> breadboard -
+- ESP32 Micro-USB <---> Laptop USB
+- ESP32 5V <---> breadboard +
+- ESP32 GND <---> breadboard -
 
-ESP32 GPIO13 <---> Servo signal
-5V rail <---> Servo Power
-GND rail <---> Servo GND
+- ESP32 GPIO13 <---> Servo signal
+- 5V rail <---> Servo Power
+- GND rail <---> Servo GND
 
-ESP32 GPIO19 <---> ULN2003 IN1
-ESP32 GPIO18 <---> ULN2003 IN2
-ESP32 GPIO05 <---> ULN2003 IN3
-ESP32 GPIO17 <---> ULN2003 IN4
+- ESP32 GPIO19 <---> ULN2003 IN1
+- ESP32 GPIO18 <---> ULN2003 IN2
+- ESP32 GPIO05 <---> ULN2003 IN3
+- ESP32 GPIO17 <---> ULN2003 IN4
 5V rail <---> ULN2003 +
 GND rail <---> ULN2003 -
 Stepper motor <---> ULN2003 "5-pin JST" (according to google, idk what its called)
